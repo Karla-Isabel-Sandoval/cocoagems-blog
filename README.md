@@ -1,14 +1,42 @@
 # cocoagems-blog
 Content for Cocoagems-blog 
- It would be awesome if you could write up a short trip report that I can compile and share with the rest of the company
 
-Nashville Tennessee Code Conf Wednesday June 24th to Saturday June 27th
+From San Francisco to Nashville Tennessee for Code Conf : Wednesday June 24th to Saturday June 27th , 2015
 
-The trip was awesome. We boarded our planes around 10:55 the morning of June 24th, 2015. Nashville, Tennessee the home of country music was our destination but first we had an LAX layover. 
+
+Github is once again sponsoring Rails Girls Summer of Code this year!
+This means that my RGSoC team mate and friend Emma Koszinowski and I are being hosted at the Github Headquarters in San Francisco. The version control software  is providing work space including desks and monitors for us as well as coaches -- this is amazing.And as if that wasn't generous enough they also invited us to partake in the third Code Conf which is a 3 day long Conference.
+
+Summer is Conference time..? Or maybe conferences take place all the time but i am new to them.
+Code Conf took place in Nashville Tennesee - 
+
+
+
+
+
+
+Most of the conference was about improving the software community by featuring 22 thought- provoking speakers, convsersation and social connections.
+
+
+Code Conf was a great place to learn about open source, best practices, documentation and community.
+
+
+this year it took place in Nashville, Tennessee.
+
+
+
+
+
+
+
+
 
 What was the point of codeconf and re-ocurring theme/ talk topics?
 Open source licenses and businesses - pivoting and open sourcing previously closed source businesses such as IBM and Microsoft.
-Community- brining people together, sharing stories, learning about how people are using open source and learnign about how open source adoption by Microsoft and IBM is restructuring  their culture and the way they do business.
+
+Community building- bringing people together, sharing stories, learning about how people are using open source and learnign about how open source adoption by Microsoft and IBM is restructuring  their culture and the way they do business.
+
+On hands training through workshops where you learn by doing - 
 
 Throughtout the talks and workshops it was clear that many of the talks were about learning more about Open Source, Atom the new editor, diverstiy and inclusion, open source at a scale, creating chaos from order and also about the many and varied background that people in tech have.
 
