@@ -1,0 +1,85 @@
+Studying: Ruby, CocoaPods Dependency Management, How to contribute to an open source project, RSPeC, Rubocop, TravisCI, How to Create a Gem, How does an open source community function - monthly meetups
+
+
+i.what was our favorite part of the summer and or memory
+ii.what kind of skills did you develop/ new technologies did you learn about?
+iii. did you attend any conferences and or tech related events during the program?
+did you talk about the program to other/give mini lectures ? 
+
+Coolest Learning Experience Gained from working on RGSoC this Summer
+Learning how to learn.
+
+Working on an Open Source project has taught me to reach out for help in places I would not have considered previously. The way I ask for help is different and hopefully the way I help others will also be more effective now. I look forward to being able to answer questions on Stack Overflow and questions on the Girl Develop It Channel as well as on Quora and Stack Exchange. Open Source means working with other people, collaboration and sharing. During Rails Girls Summer of Code we had many opportunities to ask many questions. I used the four Slack channels that we had when I got stuck or could no longer work on something on my own. The channels that we were a part of include the Rails Girls Summer of Code, the CocoaPods channel, the Github Summer of Code channel as well as the iOS channel. On occasion, when both coaches and or mentors were busy i  reached out to other students from the github channel and to other CocoaPods mentors I had not met yet. Participating in this program has made me aware of  the multitude of resources and has improved my ability to ask for help.
+
+
+Special Talent: Persistent Curiosity
+Mentors: Samuel Giddins, Boris Bugling, Orta Therox, Kyle Fuller
+
+
+
+Project: CocoaPods  Issue https://github.com/CocoaPods/CocoaPods/issues/3398  
+
+What I Learned :
+
+Created a new Gem named Cork.rb by extracting CLAide/lib/command/banner.rb
+
+CLAide becomes Cork minus the CocoaPod specific code.
+
+  2.)   Extracted Pod::User Interface Module 
+
+ 3.) Where did TextWrapper.rb come from ?? 
+
+
+To be a good programmer you also have to be good at snooping, perusing, reading between the lines  and by that I mean doing bits of detective work every now and then. Digging deep and knowing how to search is a plus. When documentation is not present or poorly written you have to be able to learn how to piece and retrieve background information to either a method, code, a key word, a repo number or a git-blame that can help you better understand  how the code works, who worked on it before you and what they did.The summer was a full on learning experience - glad that we kept a RGSoC Team Apps journal- this summer has to be the best well spent three months of my life and best use of time.
+
+Ok So it is September in San Francisco and not quite Summer anymore. Which means that as of today we (RGSoC) teams have 12 days left until the end of the program.
+Here is a list of my shiniest and most loved newly acquired skills, revelations and commands that I will walk away with:
+
+How to work on an Open Source Project without a read.me. The issue  I worked on this Summer did not contain a read.me. So, I used git-blame to track down the first person to contribute to the file. Git blame is the best because you can track each change that has been made to files are working on.
+
+How to ask questions when I felt uncomfortable or when I felt like I should know something..
+So the new technique goes something like this..open up Slack pick a coach and type out the question. Composing a question in a way that someone else can understand it requires that you establish what the problem is. In other words- it is difficult to ask for help and for others online to provide it if you don’t know what the problem you are having is. And What I found is that I didn’t alway know what my problems was, but by writing it down I was better able to understand what the challenge was.
+
+How to automate your learning process: learn to schedule meetings with mentors, coaches, colleagues and managers naturally by scheduling one each and every single time after every session. The best resource available for learning aside of the web are definitely our coaches and mentors. I learned to schedule as many meetups with them. Some were in person, some were over screen hero and some of the meetings we scheduled were also with other RGSoC participating teams and or Github Summer of Code students.
+
+
+Some of the most interesting frameworks concepts I was introduced to include writing tests in RSPeC and learnng how to write unit tests. How to break issues down into smaller sub-issues.
+How to create CHANGELOGS, extract code and determine what to keep and what to get rid of.
+
+
+
+
+
+
+
+Favorite Memories: 
+
+Releasing our first gem with our coach Boris Buegling.
+Learning that no-one knows everything regardless of how seasoned, experienced or smart they are. Developers use documentation frequently and often to either double check, reference and or learn. Making my first pull request and learning not to commit to Master. Always, for the most part do the alternative- create a new branch and then start a pull request.
+
+
+
+
+
+Traveling to Nashville, Tennessee for Github’s CodeConf in July.
+
+
+
+Attending Code2040 and trying the Oculus Rift for the first time.
+
+
+Attending the GirlyGeeks Dreamforce opening reception and listening to powerful women speak.
+
+
+
+
+
+
+
+
+how did you spend your time over the last three months?
+What did you learn about tech culture
+what did you learn about working as a team
+what did you learn about CocoaPods
+What did you learn about mentorship
+
